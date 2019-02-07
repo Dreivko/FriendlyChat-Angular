@@ -24,11 +24,11 @@ export const environment = {
     // ***********************************************************************************************************************
     // * TODO(DEVELOPER): Update values according to: Firebase Console > Overview > Add Firebase to your web app. *
     // ***********************************************************************************************************************
-    apiKey: '',
-    authDomain: '',
-    databaseURL: '',
-    projectId: '',
-    storageBucket: '',
-    messagingSenderId: ''
+    apiKey: "AIzaSyDNWTQdsoQ7TXdm8DFK8koJDmw7N3BVNmM",
+    authDomain: "wk-el5.firebaseapp.com",
+    databaseURL: "https://wk-el5.firebaseio.com",
+    projectId: "wk-el5",
+    storageBucket: "",
+    messagingSenderId: "816066642931"
   }
 };
